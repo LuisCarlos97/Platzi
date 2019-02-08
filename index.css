@@ -1,0 +1,13 @@
+#header img{
+    width: 80px;
+}
+.platzi-text{
+    color:#97c93e !important;
+}
+#footer{
+    background-color: #1c3643;
+    text-align:center;
+}
+#footer a{
+    color:white;
+}
